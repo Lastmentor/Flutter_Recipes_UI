@@ -1,16 +1,10 @@
-# flutter_recipes_ui
+# Flutter Recipes Ui
 
-A new Flutter application.
+- Part 1 of the UI 
+- Part 2 will be added later on
 
-## Getting Started
+![Screenshot_1579524577](https://user-images.githubusercontent.com/23746859/72727899-22ebbb80-3b9d-11ea-9852-d949126b10f6.png)
 
-This project is a starting point for a Flutter application.
+![mosamosa](https://user-images.githubusercontent.com/23746859/72727909-254e1580-3b9d-11ea-9ead-26d14c12f9a3.png)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+For the design : https://dribbble.com/shots/6569911-Recipes/attachments
