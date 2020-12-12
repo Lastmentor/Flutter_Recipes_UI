@@ -82,7 +82,7 @@ class _MyHomePageState extends State<MyHomePage> with TickerProviderStateMixin{
                       Column(
                         crossAxisAlignment: CrossAxisAlignment.start,
                         children: <Widget>[
-                          Text("Elisabeth", style: TextStyle(fontWeight: FontWeight.bold, fontSize: 20)),
+                          Text("Elizabeth", style: TextStyle(fontWeight: FontWeight.bold, fontSize: 20)),
                           SizedBox(height: 8),
                           Text("1.974 Followers", style: TextStyle(color: Colors.black.withOpacity(0.8), fontSize: 16),),
                         ],
